@@ -1,4 +1,4 @@
-# Aircraft-Flight-Simulation-using-C-Airbus-A350-
+# Aircraft-Flight-Simulation-using-C-Airbus-A350-Master
 ## This C code simulates the flight of an Airbus A350 aircraft using a simplified physics-based model.
 
 - The `Aircraft` struct defines the aircraft's physical characteristics: mass, thrust, drag coefficient, and wing area.
